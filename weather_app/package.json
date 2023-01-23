@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "chalk": "^5.2.0",
     "postman-request": "^2.88.1-postman.31"
   },
   "name": "weather_app",
